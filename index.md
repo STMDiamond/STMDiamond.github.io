@@ -6,7 +6,7 @@ with a concentration in probability and statistics.
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/STMDiamond.
+My GitHub page is https://github.com/STMDiamond.
 
 ### CPSC 120
 
