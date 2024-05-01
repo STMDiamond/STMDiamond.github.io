@@ -13,7 +13,7 @@ My GitHub page is [http://github.com/STMDiamond](http://github.com/STMDiamond).
 
 * Lab 2
 
-      To start with, my first favorite assignment included the second lab since
+    To start with, my first favorite assignment included the second lab since
     it was both enjoyable and entertaining to learn how I could make a program
     that would imitate a round of Mad Libs. By using statements for both
     "std::cin" and "std::cout," I could combine them with "std::strings" to
@@ -29,7 +29,7 @@ My GitHub page is [http://github.com/STMDiamond](http://github.com/STMDiamond).
 
 * Lab 3
 
-      Furthermore, my next favorite assignment involved the third lab because I
+    Furthermore, my next favorite assignment involved the third lab because I
     was impressed to see how the program from its first part could quickly
     calculate an individual's basal metabolic rate based on only three
     measurements. Apart from using "std::cin" along with "std::cout" to display
@@ -47,7 +47,7 @@ My GitHub page is [http://github.com/STMDiamond](http://github.com/STMDiamond).
 
 * Lab 7
 
-      Finally, my third favorite assignment was the seventh lab as it would
+    Finally, my third favorite assignment was the seventh lab as it would
     instantly inform the user if the date and time that they entered
     successfully met specific conditions through countless parking rules. Even
     though this lab featured "if statements" for each condition, it mainly
